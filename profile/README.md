@@ -1,7 +1,7 @@
 # Tech Challenge da instituição FIAP para o curso pós-graduação em Arquitetura e Desenvolvimento Java
 
 ### 📄 [Documentação Oficial do Desafio](https://docs.google.com/document/d/1WYRWwu2LtzAQk7JSGeTKBEoJ7vOuspLfpe-7FJTxsTY/edit?usp=sharing)
-### 🎥 Vídeo - [URL](https://youtu.be/WCJVxM59BmQ) 
+### 🎥 Vídeo - [URL](https://youtu.be/PYqVEvrSXtQ) 
 
 ## Arquitetura de Microsserviços - Gerenciamento de feedbacks - Plataforma de curso on-line
 
