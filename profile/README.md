@@ -24,7 +24,7 @@ Responsável pelas operações de **Criação de AccessToken**, **Criação de R
 Responsável pelas operações de **cadastro**, **atualização**, **exclusão**, **consulta** de usuários.
 
 #### 🔹 ms-feedback
-Responsável pelas operações de **cadastro**, **atualização**, **exclusão**, **consulta** de gerencimaneot de feedbacks e **criação de report semanal**.
+Responsável pelas operações de **cadastro**, **atualização**, **exclusão**, **consulta** de gerenciamento de feedbacks e **criação de report semanal**.
 
 Ambos os microsserviços foram implementados com a linguagem **Java 21**, utilizando o framework **Spring Boot** para desenvolvimento, injeção de dependência e exposição de endpoints REST.
 
